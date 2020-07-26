@@ -10,4 +10,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  font-size: 1.1em;
+}
+.footer{
+  position: absolute;
+  bottom: 0;
 }
